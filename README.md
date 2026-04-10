@@ -71,7 +71,3 @@ skills/
 ```
 
 This plugin contains no runtime code, no MCP servers, and no Node dependencies — it is a pure collection of skill definitions.
-
-## License
-
-Released under the [MIT License](LICENSE). Copyright (c) 2026 Oliver Biele.
