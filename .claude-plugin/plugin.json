@@ -6,6 +6,5 @@
     "name": "olive"
   },
   "repository": "https://github.com/goosefly99/dev-automation-claude-plugin.git",
-  "type": "plugin",
-  "skills": ["architecture", "code-review", "create-scheduled-dev-task", "debug", "deploy-checklist", "documentation", "incident-response", "standup", "system-design", "tech-debt", "testing-strategy"]
+  "type": "plugin"
 }
