@@ -1,0 +1,7 @@
+{
+  "name": "dev-automation-auto-dev",
+  "description": "Project design, documentation scaffolding, and autonomous scheduled development tasks.",
+  "version": "0.1.1",
+  "type": "plugin",
+  "skills": "./skills/"
+}
